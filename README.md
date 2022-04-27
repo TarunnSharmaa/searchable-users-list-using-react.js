@@ -1,5 +1,5 @@
-# Class Component and State Part 2
 
+# searchable-users-list-using-react.j
 - Searchable Users List
   - Searching User
   - Deleting User
@@ -7,4 +7,4 @@
   - Object Syntax
 - Components
   - Passing Callbacks
-# searchable-users-list-using-react.js
+
